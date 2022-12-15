@@ -2,10 +2,10 @@
 version: 1.1.14
 
 # Site settings 配置站点
-title: 'Mr Li'
+title: 'Can1425的博客'
 description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
-keyword: 'zhonger，zhonger的博客，nodejs，kvm, 机器学习'
-url: 'https://h2o-ac.pages.dev' # your host
+keyword: 'Can1425，Can1425的博客，mPython'
+url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -33,10 +33,10 @@ language: zh-cn
 
 # Navigation links
 nav:
-  home: '/'
-  blog: '/blog/index.html'
-  archives: '/archives.html'
-  tags: '/tags.html'
+  🏠首页: '/'
+  🏷️标签: '/tags.html'
+  📆归档: '/archives.html'
+  🔗友链: '/links.html'
   about:   
     RSS: '/feed.xml'
 
@@ -53,7 +53,7 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2022
 
 # Author 配置博主信息
 author: 'zhonger'
@@ -109,7 +109,7 @@ supports:
   webify: 
 
 # Beian 备案号
-beian: '沪ICP备xxxxxxxx号'
+#beian: '沪ICP备xxxxxxxx号'
 
 # CC License
 cclicense: true

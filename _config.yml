@@ -49,17 +49,17 @@ formats:
   time: 0   
 
 # Favicon
-favicon: "/favicon.ico"
+favicon: "/assets/icons/default.svg"
 
 # Footer
 footer:
   since: 2022
 
 # Author 配置博主信息
-author: 'zhonger'
-nickname: 'zhonger'
+author: 'Can1425'
+nickname: 'Can1425'
 bio: '全栈开发者，热爱前端、运维和架构设计'
-avatar: '/assets/img/profile.webp'
+avatar: '/assets/icons/default.svg'
 
 # Search
 search: true

@@ -71,7 +71,7 @@ nightMode: false
 comments:
   disqus: false
   disqus_url: 'https://h2o-ac.disqus.com/embed.js'
-  waline: true
+  waline: false
   waline_url: 'https://can1425-waline.wxxh.xyz/'
   waline_reaction: false
   waline_locale: 
@@ -101,6 +101,7 @@ sns:
 
 # Links 友情链接
 links:
+   'ouyhq2011的博客': 'https://ouyanghongqian.top'
   # 'Mr Li': 'https://lisz.me'
 
 # Supports 赞助商

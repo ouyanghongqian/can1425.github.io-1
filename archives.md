@@ -1,9 +1,7 @@
 ---
 layout: archives
-home-title: Welcome to zhonger's blog!
-description: Writing, writing, writing ...
+home-title: 归档
+description: Can1425
 permalink: /archives.html
-cover: 'https://images.unsplash.com/photo-1649771482867-21eaffe6fcd0'
-cover_author: 'Colin + Meg'
-cover_author_link: 'https://unsplash.com/@colinandmeg'
+cover: assets/img/ouyhq2011的博客.jpg
 ---
